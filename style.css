@@ -8,6 +8,9 @@
 body{
     font-family: sans-serif;
     background-image: url(https://images.pexels.com/photos/861440/pexels-photo-861440.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 header{
